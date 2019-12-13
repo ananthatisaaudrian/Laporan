@@ -1,0 +1,52 @@
+body{
+    background-image: url(Hello____.jpg);
+    margin: 0;
+}
+.navbar{
+    width : 100vw;
+    background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding : 3vh;
+    color: whitesmoke;
+    font-family: cursive;
+}
+.navbar button {
+
+}
+.content{
+    width: 49vh;
+    height: 93vh;
+    background: #536976;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    margin: auto;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    padding: 15vh 5vh;
+    border-radius: 15pt;
+}
+.nama{
+    color: rgb(189, 189, 189);
+    font-size: 2vh;
+    margin-top:none;
+    text-align:left;
+    font-family: cursive;
+}
+
+h1{
+    font-size: 2vh;
+    font-family: cursive;
+    text-align: left;
+}
+button{
+    background: #536976;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+font-family: cursive;
+font-size: 3vh;
+    border-radius: 40pt;
+}
